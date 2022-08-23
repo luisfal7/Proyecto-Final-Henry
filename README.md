@@ -1,0 +1,7 @@
+# Proyecto grupal
+
+...
+
+## Funcionalidades
+
+....
